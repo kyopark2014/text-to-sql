@@ -1,4 +1,6 @@
-# text-to-sql
+# LLM으로 SQL 생성하기
+
+추후 Reference를 바탕으로 SQL Query를 수행할 계획입니다.
 
 ## Reference
 
