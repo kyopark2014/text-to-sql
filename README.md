@@ -1,6 +1,9 @@
 # LLM으로 SQL 생성하기
 
+RDB를 조회하여 사용할때 필요한 기능을 정의하고자 합니다.
+
 추후 Reference를 바탕으로 SQL Query를 수행할 계획입니다.
+
 
 ## Reference
 
